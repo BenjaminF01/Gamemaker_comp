@@ -15,6 +15,17 @@
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"knight","order":2,"path":"folders/Sprites/knight.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"sKnightHurt","order":5,"path":"sprites/sKnightHurt/sKnightHurt.yy",},
+    {"name":"sKnightWalk","order":8,"path":"sprites/sKnightWalk/sKnightWalk.yy",},
+    {"name":"sKnightIdle","order":6,"path":"sprites/sKnightIdle/sKnightIdle.yy",},
+    {"name":"sKnightGuard","order":3,"path":"sprites/sKnightGuard/sKnightGuard.yy",},
+    {"name":"sKnightGuardHit","order":4,"path":"sprites/sKnightGuardHit/sKnightGuardHit.yy",},
+    {"name":"sKnightJump","order":7,"path":"sprites/sKnightJump/sKnightJump.yy",},
+    {"name":"sKnightAttack","order":1,"path":"sprites/sKnightAttack/sKnightAttack.yy",},
+    {"name":"sKnightDeath","order":2,"path":"sprites/sKnightDeath/sKnightDeath.yy",},
+    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+  ],
 }

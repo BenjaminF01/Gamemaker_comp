@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {"id":{"name":"sKnightGuardHit","path":"sprites/sKnightGuardHit/sKnightGuardHit.yy",},"order":2,},
+    {"id":{"name":"sKnightJump","path":"sprites/sKnightJump/sKnightJump.yy",},"order":7,},
+    {"id":{"name":"sKnightGuard","path":"sprites/sKnightGuard/sKnightGuard.yy",},"order":1,},
+    {"id":{"name":"sKnightAttack","path":"sprites/sKnightAttack/sKnightAttack.yy",},"order":3,},
+    {"id":{"name":"sKnightHurt","path":"sprites/sKnightHurt/sKnightHurt.yy",},"order":6,},
+    {"id":{"name":"sKnightAirAttack","path":"sprites/sKnightAirAttack/sKnightAirAttack.yy",},"order":4,},
+    {"id":{"name":"sKnightDeath","path":"sprites/sKnightDeath/sKnightDeath.yy",},"order":5,},
+    {"id":{"name":"sKnightIdle","path":"sprites/sKnightIdle/sKnightIdle.yy",},"order":0,},
+    {"id":{"name":"sKnightWalk","path":"sprites/sKnightWalk/sKnightWalk.yy",},"order":8,},
+  ],
+  "Options": [],
+  "isDnDProject": false,
+  "isEcma": false,
+  "tutorialPath": "",
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [],
+  "Folders": [
+    {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/knight.yy","order":16,"resourceVersion":"1.0","name":"knight","tags":[],"resourceType":"GMFolder",},
+  ],
+  "AudioGroups": [
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2.3.4.583",
+    "PackageType": "Asset",
+    "PackageName": "Simple Knight - Free",
+    "PackageID": "com.phi9009.SimpleKnightFree",
+    "PackagePublisher": "Phi9009",
+    "PackageVersion": "1.0.0",
+  },
+  "resourceVersion": "1.4",
+  "name": "Package_Friend",
+  "tags": [],
+  "resourceType": "GMProject",
+}
